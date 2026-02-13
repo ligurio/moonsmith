@@ -64,10 +64,10 @@ language:
     "use_string_len": true
 
     # Use math.type()
-    "use_math_type": true
+    "use_math_type": false
 
     # Use math.ult()
-    "use_math_ult": true
+    "use_math_ult": false
 
     # Use math.sin()
     "use_math_sin": true
